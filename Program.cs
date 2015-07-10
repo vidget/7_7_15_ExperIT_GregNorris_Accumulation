@@ -26,11 +26,7 @@ namespace _7_7_15_ExperIT_GregNorris_Accumulation
             //an array created to hold the total values once calculated
             decimal[] totals = {0,0,0,0};
 
-           // String[] names = { "tom", "john" };
-
-           // int[] numbers = { 1, 2, 3 };
-
-
+          
             //I used a for loop to cycle through the four different values held in the days and multiplied those times the dailyDepost($35.00) and put that value into the array called totals.
             for (int y = 0; y < 4; y++)
                 {
